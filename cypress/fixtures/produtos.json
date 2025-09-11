@@ -1,0 +1,23 @@
+[
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanhos": "M",
+        "cor": "Green",
+        "quantidade": 5 
+    },
+    
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanhos": "33",
+        "cor": "Blue",
+        "quantidade": 2
+    },
+    
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanhos": "S",
+        "cor": "Blue",
+        "quantidade": 1 
+
+    }
+]
